@@ -1,0 +1,43 @@
+@font-face{
+    font-family: Renogare;
+    src: url('/res/Renogare-Regular.otf') format('opentype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+:root {
+    --background-color: #ffedd5;
+}
+
+body {
+    background-color: var(--background-color);
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Renogare', sans-serif;
+}
+h2 {
+    font-style: italic;
+}
+h3 {
+    margin-top: 15px;
+}
+
+p {
+    font-family: sans-serif;
+    padding: 0 25px 0 25px;
+}
+
+span.code {
+    background-color: rgb(62, 78, 90);
+    display: inline-block;
+    border-radius: 2px;
+    color: white;
+    padding: 0 1px 0 1px;
+}
