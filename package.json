@@ -1,0 +1,18 @@
+{
+  "name": "ccr",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Community-Driven Multi Dimensional Difficulty Ratings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skye Doto",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "hyper-express": "^6.5.5",
+    "live-directory": "^3.0.1",
+    "sharp": "^0.31.3"
+  }
+}
