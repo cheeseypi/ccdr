@@ -32,9 +32,9 @@ Numbers are displayed either in our badges, or in text in the form 1/2/3/4. Rati
 Our goal is to allow mappers to register their levels in the CCDR and get community feedback on their initial ratings.
 
 The CCDR will have 3 levels of difficulty rating verification:
-1. Level 1 ![ghost berry](static/res/GhostBerry.png) will indicate that a map has only been rated by the mapper themselves.
-2. Level 2 ![red berry](static/res/RedBerry.png) will indicate that a map has been rated by the community in sufficient numbers to provide reasonable feedback.
-3. Level 3 ![gold berry](static/res/GoldBerry.png) will indicate that a map has been reviewed by a large portion of the community and that its difficulty rating is relatively uncontroversial among those who have rated it.
+1. ![ghost berry](static/res/GhostBerry.png) Level 1 will indicate that a map has only been rated by the mapper themselves.
+2. ![red berry](static/res/RedBerry.png) Level 2 will indicate that a map has been rated by the community in sufficient numbers to provide reasonable feedback.
+3. ![gold berry](static/res/GoldBerry.png) Level 3 will indicate that a map has been reviewed by a large portion of the community and that its difficulty rating is relatively uncontroversial among those who have rated it.
 
 ## Dev notes
 ### Pages
