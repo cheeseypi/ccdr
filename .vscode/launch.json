@@ -8,10 +8,11 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
+            "runtimeExecutable": "/Users/skyedoto/.nvm/versions/node/v16.20.2/bin/node",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\app.js"
+            "program": "${workspaceFolder}/app.js"
         }
     ]
 }
